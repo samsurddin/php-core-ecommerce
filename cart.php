@@ -17,6 +17,7 @@ session_start();
     <!-- Fontawsome css -->
     <link rel="stylesheet" href="./css/all.css">
     <!-- Castome Css -->
+    <!-- New comment -->
     <link rel="stylesheet" href="./css/main.css">
     <title><?php echo TITLE ?></title>
 </head>
